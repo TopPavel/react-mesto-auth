@@ -1,0 +1,11 @@
+.sign__link {
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    transition: opacity .2s;
+}
+
+.sign__link:hover {
+    opacity: .7;
+}
